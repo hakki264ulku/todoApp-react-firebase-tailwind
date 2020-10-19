@@ -1,6 +1,6 @@
 # Todo-App-React-Firebase-Tailwind
 * Demo: https://my-app-1e64f.web.app
-This project is a simple 'Todo App'. I wrote this to experiment React, Firebase and Tailwindcss.
+- This project is a simple 'Todo App'. I wrote this to experiment React, Firebase and Tailwindcss.
 
 # 🚀 Tech Stack
 * ReactJS
